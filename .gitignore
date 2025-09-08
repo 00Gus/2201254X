@@ -1,0 +1,6 @@
+# Archivos comunes a ignorar
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+.vscode/
