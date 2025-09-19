@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Función para ordenar usando método burbuja
+// Funcion para ordenar usando metodo burbuja
 void bubbleSort(int arr[], int n) {
     int i, j, temp;
     for (i = 0; i < n - 1; i++) {
@@ -15,7 +15,7 @@ void bubbleSort(int arr[], int n) {
     }
 }
 
-// Función para imprimir el arreglo
+// Funcion para imprimir el arreglo
 void printArray(int arr[], int n) {
     for (int i = 0; i < n; i++) {
         printf("%d ", arr[i]);
